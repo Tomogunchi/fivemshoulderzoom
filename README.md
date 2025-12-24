@@ -1,7 +1,7 @@
 <h1 align="center" style="margin-top: 0px;">FiveM Shoulder Zoom Script</h1>
 
 <p align="center">
-  A FiveM script that allows players to toggle on and off zoom functionality.
+  A FiveM script that allows players to toggle on and off zoom functionality using a keybind of their choice.
   <br />
   <a href="https://github.com/Tomogunchi/fivemshoulderzoom/releases/latest/">Download</a>
   ·
